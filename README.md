@@ -1,3 +1,4 @@
+# Curso de GIT da Alura
 # Sistema de cadastro de jogos 
 
 > Status do projeto: em desenvolvimento
